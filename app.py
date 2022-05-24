@@ -4,7 +4,6 @@ from app_eda import run_eda
 from app_home import run_home
 from app_ml import run_ml
 import string
-
 import nltk
 
 nltk.download('stopwords')
